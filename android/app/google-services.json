@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370351630591",
+    "project_id": "project-hackt",
+    "storage_bucket": "project-hackt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370351630591:android:bf2023f7f0f9662e8fc4ca",
+        "android_client_info": {
+          "package_name": "com.example.hackt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzj4FzOyLeXMSjbZmAnNQ5DGJaUHwcATU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
